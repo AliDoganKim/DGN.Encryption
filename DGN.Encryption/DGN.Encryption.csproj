@@ -1,7 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Ali DOĞAN</Authors>
+    <Company>AliDogan.Kim</Company>
+    <Version>1.0.1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>www.alidogan.kim</PackageProjectUrl>
+    <PackageLicenseUrl>www.alidogan.kim</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/AliDoganKim/DGN.Encryption</RepositoryUrl>
+    <PackageTags>Encryption</PackageTags>
+    <Copyright>Copyright © Ali DOĞAN 2018</Copyright>
+    <PackageReleaseNotes />
+    <Description>Performs crypto operation using using the Rijndael.</Description>
   </PropertyGroup>
 
   <ItemGroup>
